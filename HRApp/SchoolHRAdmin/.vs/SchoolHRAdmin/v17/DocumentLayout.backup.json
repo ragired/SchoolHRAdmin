@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25DD9C66-834E-41C6-9C5A-C5A6B44F7CCC}|SchoolHRAdmin\\SchoolHRAdmin.csproj|c:\\users\\ragi8\\onedrive\\desktop\\csharp\\schoolhradmin\\hrapp\\schoolhradmin\\schoolhradmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DD9C66-834E-41C6-9C5A-C5A6B44F7CCC}|SchoolHRAdmin\\SchoolHRAdmin.csproj|solutionrelative:schoolhradmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F071C739-365C-403A-944B-C0BBE0B6C1F7}|HRAdminAPI\\HRAdminAPI.csproj|c:\\users\\ragi8\\onedrive\\desktop\\csharp\\schoolhradmin\\hrapp\\schoolhradmin\\hradminapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F071C739-365C-403A-944B-C0BBE0B6C1F7}|HRAdminAPI\\HRAdminAPI.csproj|solutionrelative:hradminapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F071C739-365C-403A-944B-C0BBE0B6C1F7}|HRAdminAPI\\HRAdminAPI.csproj|c:\\users\\ragi8\\onedrive\\desktop\\csharp\\schoolhradmin\\hrapp\\schoolhradmin\\hradminapi\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F071C739-365C-403A-944B-C0BBE0B6C1F7}|HRAdminAPI\\HRAdminAPI.csproj|solutionrelative:hradminapi\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DD9C66-834E-41C6-9C5A-C5A6B44F7CCC}|SchoolHRAdmin\\SchoolHRAdmin.csproj|c:\\users\\ragi8\\onedrive\\desktop\\csharp\\schoolhradmin\\hrapp\\schoolhradmin\\schoolhradmin\\schoolhradmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25DD9C66-834E-41C6-9C5A-C5A6B44F7CCC}|SchoolHRAdmin\\SchoolHRAdmin.csproj|solutionrelative:schoolhradmin\\schoolhradmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolHRAdmin.csproj",
+              "DocumentMoniker": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\SchoolHRAdmin\\SchoolHRAdmin.csproj",
+              "RelativeDocumentMoniker": "SchoolHRAdmin\\SchoolHRAdmin.csproj",
+              "ToolTip": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\SchoolHRAdmin\\SchoolHRAdmin.csproj",
+              "RelativeToolTip": "SchoolHRAdmin\\SchoolHRAdmin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T16:33:02.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeBase.cs",
+              "DocumentMoniker": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\HRAdminAPI\\EmployeeBase.cs",
+              "RelativeDocumentMoniker": "HRAdminAPI\\EmployeeBase.cs",
+              "ToolTip": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\HRAdminAPI\\EmployeeBase.cs",
+              "RelativeToolTip": "HRAdminAPI\\EmployeeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:21:53.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\HRAdminAPI\\IEmployee.cs",
+              "RelativeDocumentMoniker": "HRAdminAPI\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\HRAdminAPI\\IEmployee.cs",
+              "RelativeToolTip": "HRAdminAPI\\IEmployee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:19:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\SchoolHRAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolHRAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\ragi8\\OneDrive\\Desktop\\CSharp\\SchoolHRAdmin\\HRApp\\SchoolHRAdmin\\SchoolHRAdmin\\Program.cs",
+              "RelativeToolTip": "SchoolHRAdmin\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:14:17.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
