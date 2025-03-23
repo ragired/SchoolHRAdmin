@@ -22,7 +22,8 @@ class Program
              totalSalary += employee.Salary;
          }
          Console.WriteLine($"Total Salary incl Bonus {totalSalary}");*/
-
+        // instead of manually adding the salaries inside the Enumerable 
+        // we can use a LINQ Method for simple functions on a Enumerable, such as sum, average, max, orderby, join, etc.
         Console.WriteLine($"Total Salary incl Bonus {employeeList.Sum(e => e.Salary)}");
     }
 
